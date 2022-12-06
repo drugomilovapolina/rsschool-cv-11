@@ -38,3 +38,14 @@ const func = (num) => {
 * Tasks setting for developers, tasks management and control of execution.
 * Prototyping of the interfaces.
 * Business processes modeling, using BPMN notation.
+
+## Education
+* Rolling Scopes - JavaScript/Front-end development
+* IT Academy - Business Analysis in IT
+* BSEU - Business Administration
+
+## Languages
+* Russian - Native
+* Belarusian - Native
+* English - B2
+* Spanish - A2
