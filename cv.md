@@ -18,3 +18,23 @@ And finally I want to say that I have a real desire to grow both professionally 
     * requirements elicitation and formalization: SRS, V&S, Use Cases, User Stories
     * user interface design and prototyping: Figma, Axure, Balsamiq
     * processes modeling (BPMN, UML)
+
+    ## Code example
+```javascript
+const func = (num) => {
+  if (num > 0) {
+    return num - 1;
+  }
+  return num + 1;
+};
+```
+
+## Work experience
+### Business Analyst
+*February 2022 - Present*
+* Requirements elicitation, analysis and documentation.
+* Communication with the Product owner, Marketers, Risk specialists and other business representatives.
+* Interact with DEV and QA teams during the project implementation.
+* Tasks setting for developers, tasks management and control of execution.
+* Prototyping of the interfaces.
+* Business processes modeling, using BPMN notation.
